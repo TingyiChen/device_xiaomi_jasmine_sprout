@@ -36,6 +36,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR_PRODUCT_NAME := jasmine
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="jasmine-user 8.1.0 OPM1.171019.011 V9.6.10.0.ODIMIFE release-keys"
+    PRIVATE_BUILD_DESC="jasmine-user 9 PKQ1.180904.001 V10.0.1.0.PDIMIFJ release-keys"
 
-BUILD_FINGERPRINT := xiaomi/jasmine/jasmine:8.1.0/OPM1.171019.011/V9.6.10.0.ODIMIFE:user/release-keys
+BUILD_FINGERPRINT := xiaomi/jasmine/jasmine_sprout:9/PKQ1.180904.001/V10.0.1.0.PDIMIFJ:user/release-keys
